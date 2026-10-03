@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "a9272bb24ec0ea21",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fc45db4029680e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7683e46b05ac1510",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⚡️Siujang Gatrik/🔐 Credentials Siujang Gatrik.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🔐 Credentials Siujang Gatrik"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "575af32748b5a339",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2b254f8f7b83ebe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12f72094561b3e3b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "199b7c664a2caa6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ddf0ec8766abca08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "416b1f9062894b78",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f2a28e92d507f1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15fa72cbaf03021d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🗄️ Server/Dokumentasi Perbaikan Real-time Notification (Laravel Reverb & Nginx).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Dokumentasi Perbaikan Real-time Notification (Laravel Reverb & Nginx)"
+            }
+          },
+          {
+            "id": "3f315769ea930630",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "aec9660754692add",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "97b5d0ae55314f97",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0724865eddc0dcf4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7683e46b05ac1510",
+  "lastOpenFiles": [
+    "✒️Xignature/🔐 Credential.md",
+    "⚡️Siujang Gatrik/🔐 Credentials Siujang Gatrik.md",
+    "⚡️Siujang Gatrik",
+    "✒️Xignature/Alur Teknis.md",
+    "✒️Xignature/📜 Summary Xignature.md",
+    "🏦 AKUNTING/CATATAN SUPPORT AURANEX.md",
+    "✒️Xignature",
+    "🗄️ Server/Pesan Downtime.md",
+    "2026-09-02.md",
+    "🏦 AKUNTING/Akuntansi.md",
+    "🏦 AKUNTING/🏦 Desain ERD Modul Finance & Accounting (ERP).md",
+    "🏦 AKUNTING/📝 Bahan wawancara Aplikasi Akunting.md",
+    "Catatan Meeting PT Serlindo.md",
+    "Adjusment.md",
+    "🗄️ Server/Langkah-langkah deployment production.md",
+    "🏦 AKUNTING/Solusi arsitektur current_saldo COA.md",
+    "🗄️ Server/Dokumentasi Perbaikan Real-time Notification (Laravel Reverb & Nginx).md",
+    "BEFORE ASK.md",
+    "🔐 CREDENTIAL/🔑 Credential siujang gatrik.md",
+    "🗄️ Server/🇳ginx SSL Fallback Routing Flow.md",
+    "🎯 Dart Flutter/🎯 Flutter Dasar.md",
+    "🔐 CREDENTIAL",
+    "🏦 AKUNTING/scenario.md",
+    "🏦 AKUNTING/Migration.md",
+    "🗄️ Server/Docker-compose.prop.yml.md",
+    "🎯 Dart Flutter/🎯 Belajar Dart Dasar.md",
+    "Untitled.base",
+    "🗄️ Server/🗄Reverse Proxy NGINX.md",
+    "🗄️ Server/🛢Setup Monitoring PostgreSQL di Grafana.md",
+    "Pasted image 20260624185418.png",
+    "🎯 Dart Flutter/🎯 Belajar Flutter Dasar.md",
+    "🏦 AKUNTING",
+    "Pasted image 20260604223757.png",
+    "🗄️ Server",
+    "Untitled.canvas",
+    "Dart Flutter/Untitled.base",
+    "🎯 Dart Flutter"
+  ]
+}
